@@ -1,7 +1,5 @@
 # Portfolio of Muhamad Saad Bin Nadeem
 
-<img src ="/" />
- 
 This project was created with CRA (Create React App)
 
 This is my website to introduce myself, here I put my skills, portfolio, and contact details.
