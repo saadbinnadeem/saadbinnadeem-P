@@ -22,7 +22,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Hi there! I'm Saad, Software Engineer also a website developer with a passion for creating custom online experiences for my clients. With a skill set including C, JAVA, PYTHON, HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+          Hi there! I'm Saad, Software Engineer also a website developer with a passion for creating custom online experiences for my clients. With a skill set including C, JAVA, PYTHON, HTML, CSS, JavaScript, Flutter and React, I have the tools to bring any App & website vision to life.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
@@ -31,7 +31,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-          So if you're in need of a new website and Sofware or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
+          So if you're in need of a new website or Sofware and App just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website and App dreams to reality together!</p> 
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
